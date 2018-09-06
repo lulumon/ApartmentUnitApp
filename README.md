@@ -2,7 +2,8 @@
 
 
 This is bare-bones apartment search app created in Python. The program takes in apartment data from a text file in a space separated 
-format. Through custom class modules, the app creates two databases for storing apartment and tenant information. The app also takes in user data to do the following:  
+format. Through custom class modules, the app creates two databases for storing apartment and tenant information. The app also takes 
+in user input to do the following:  
 
 <ol>
 <li>Rent/Lease Apartment</li>
@@ -14,5 +15,7 @@ format. Through custom class modules, the app creates two databases for storing 
 <li>Add New Apartment</li>
 <li>Exit</li>
 </ol>
+
+The file 'client.py' initializes the program. 
 
  
